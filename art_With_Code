@@ -1,1 +1,21 @@
+for (var count = 0; count < 3; count++) {
+  moveForward();
+  collect();
+}
+turnLeft();
+moveForward();
+collect();
+turnLeft();
+moveForward();
+collect();
+moveForward();
+collect();
+turnRight();
+moveForward();
+turnRight();
+collect();
+moveForward();
+collect();
+moveForward();
+collect();
 
